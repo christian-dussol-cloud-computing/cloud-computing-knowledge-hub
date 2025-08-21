@@ -4,7 +4,8 @@
 
 | Repository | Description | Focus Areas |
 |------------|-------------|------------|
-| [Cloud Computing Hub](https://github.com/christian-dussol-cloud-computing/cloud-computing-knowledge-hub) | This index repository (you are here) | Navigation, Overview |
+| [Cloud Computing Hub](https://github.com/christian-dussol-cloud-computing/cloud-computing-knowledge-hub) | This index repository (you are here) | Navigation, overview |
+| [Microsoft Azure](https://github.com/christian-dussol-cloud-computing/microsoft-azure) | Microsoft Azure  | Architecture guides, best practices |
 | [FinOps](https://github.com/christian-dussol-cloud-computing/finops) | FinOps  | Best practices |
 
 ## 🔍 By Domain
