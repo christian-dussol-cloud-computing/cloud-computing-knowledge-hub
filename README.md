@@ -14,7 +14,7 @@
 - [FinOps](https://github.com/christian-dussol-cloud-computing/finops)
 
 ### Microsoft Azure
-- [Architecture decision guides](https://guthub.com/christian-dussol-cloud-computing/certifications/AZ-305/architecture-decision-guides)
+- [Architecture decision guides](https://github.com/christian-dussol-cloud-computing/certifications/AZ-305/architecture-decision-guides)
 
 ### Future Topics
 
